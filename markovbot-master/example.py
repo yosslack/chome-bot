@@ -8,6 +8,7 @@ from markovbot import MarkovBot
 # INITIALISE
 
 # Initialise a MarkovBot instance
+
 tweetbot = MarkovBot()
 
 # Get the current directory's path
